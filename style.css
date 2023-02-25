@@ -1,0 +1,58 @@
+body {
+background-image: ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+max-width:950 px;
+margin: 0 auto;
+}
+div {
+border: 1px solid black;
+padding: 5px 15px;
+}
+h4 {
+text-align: center;
+}
+.header {
+ border-radius: 10px 10px 0 0;
+ margin-top: 20px;
+ background: linear-gradient(to left, #0099ff 16%, #ffff00 88%);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ min-height: 200px;
+ line-height: 200px;
+ text-align: center;
+ margin-bottom: 10px;
+ -webkit-box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ }
+ .sidebar {
+ background: linear-gradient(to bottom right, #00ccff 22%, #ffff00 81%);
+ float: left;
+ margin-right: 10px;
+ max-width:200px;
+ min-width:150px;
+ }
+.sidebar1 {
+ background: linear-gradient(to bottom left, #00ccff 22%, #ffff00 81%);
+ float: right;
+ margin-right: 10px;
+ max-width:200px;
+ }
+ .conteiner {
+ text-align: justify;
+ background: #4dc3ff;
+ margin-bottom: 10px;
+ -webkit-box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ }
+ .footer {
+ font-weight: bold;
+ color: ;
+  background: linear-gradient(to right, #00ccff 22%, #ffff00 81%);
+  min-height: 30px;
+  line-height:30px;
+  border-radius: 0 0 10px 10px;
+  -webkit-box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ box-shadow: 0 0 10px rgba (0, 0, 0, 0.86);
+ }
+ 
